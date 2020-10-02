@@ -1,0 +1,27 @@
+{
+    "name": "rockhopsoft/survloop-images",
+    "description": "Images for Survloop, an engine for designing a database and creating a mobile-friendly user interfaces to fill it.",
+    "keywords": [
+    	"Survloop", 
+    	"survey", 
+    	"database designer", 
+    	"user experience", 
+    	"forms", 
+    	"mobile friendly", 
+    	"mobile first", 
+    	"branching tree",
+    	"nodes",
+    	"content management system",
+    	"open source",
+    	"Laravel"
+    ],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Morgan Lesko",
+            "homepage": "https://github.com/rockhopsoft/survloop",
+            "email": "rockhoppers@runbox.com",
+            "role": "Developer"
+        }
+    ]
+}
